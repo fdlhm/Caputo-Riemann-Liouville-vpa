@@ -3,6 +3,7 @@
 % Carlota M. Cuesta, Francisco de la Hoz,
 % A non-recursive Schur-Decomposition Algorithm for $N$-Dimensional Matrix Equations
 % arXiv:2412.15840, (2024).
+%
 function X=sylvesterND(AA,X)
 N=length(AA);
 UU=cell(1,N);
