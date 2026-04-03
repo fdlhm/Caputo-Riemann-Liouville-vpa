@@ -13,6 +13,6 @@ The program pde2D.m requires the MATLAB functions multND1, multND, and sylvester
 
 https://github.com/fdlhm/SchurND
 
-and were developed in:
+and were developed in
 
 Carlota M. Cuesta and Francisco de la Hoz, A Non-Recursive Schur-Decomposition Algorithm for N-Dimensional Matrix Equations, arXiv:2412.15840 (2024).
