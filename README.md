@@ -9,6 +9,10 @@ The programs pde2D.m and pdeND.m require the MATLAB functions herdif, herroots, 
 
 https://appliedmaths.sun.ac.za/~weideman/research/differ.html
 
-The program pde2D.m requires the MATLAB functions multND1, multND, and sylvesterND. The latter two were developed in:
+The program pde2D.m requires the MATLAB functions multND1, multND, and sylvesterND. The latter two are also available at
+
+https://github.com/fdlhm/SchurND
+
+and were developed in:
 
 Carlota M. Cuesta and Francisco de la Hoz, A Non-Recursive Schur-Decomposition Algorithm for N-Dimensional Matrix Equations, arXiv:2412.15840 (2024).
